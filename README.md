@@ -8,5 +8,5 @@ yes | /bin/bash -c "$(curl -sSL https://raw.githubusercontent.com/cuongndc9/dotf
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "We may encounter many defeats but we must not be defeated." - Maya Angelou
+> "Don't let yesterday take up too much of today." - Will Rogers
 <!-- INSPIRATIONAL_QUOTE_END -->
