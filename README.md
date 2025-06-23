@@ -8,5 +8,5 @@ yes | /bin/bash -c "$(curl -sSL https://raw.githubusercontent.com/cuongndc9/dotf
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "Don't let yesterday take up too much of today." - Will Rogers
+> "Life is what happens to you while you're busy making other plans." - John Lennon
 <!-- INSPIRATIONAL_QUOTE_END -->
